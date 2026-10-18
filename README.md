@@ -1,4 +1,4 @@
-Hi there 👋, I'm Tharun!
+ Hi, I'm Tharun 👋
 
 Welcome to my GitHub profile!
 
