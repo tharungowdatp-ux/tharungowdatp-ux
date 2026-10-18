@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there 👋, I'm Tharun!
 
-<!--
-**tharungowdatp-ux/tharungowdatp-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning programming and software development.
+- 💻 I'm interested in building useful projects.
+- 🎯 My goal is to improve my coding skills and become a better developer.
+- 🤝 I'm open to learning and collaborating on projects.
+
+🛠️ Skills
+
+- Programming: Add your programming languages here
+- Tools: Git, GitHub, VS Code
+
+📌 My Projects
+
+- More projects coming soon!
+
+📫 Connect With Me
+
+- GitHub: https://github.com/tharungowdatp-ux
+
+Thanks for visiting my profile! 😊
